@@ -1,3 +1,4 @@
+[![Build status](https://dev.azure.com/jonassilvabatista1977/Enabling%20Continuous%20Integration%20with%20Azure%20Pipelines/_apis/build/status/Enabling%20Continuous%20Integration%20with%20Azure%20Pipelines-ASP.NET-CI)](https://dev.azure.com/jonassilvabatista1977/Enabling%20Continuous%20Integration%20with%20Azure%20Pipelines/_build/latest?definitionId=-1)
 ---
 page_type: sample
 languages:
